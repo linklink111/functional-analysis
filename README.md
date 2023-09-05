@@ -10,4 +10,4 @@ C_0(T)是所有x \in C(T)有如下特性元素的集合：对每个\epsilon>0，
 
 设T是赋有离散距离的自然数集，则C(T)是K中所有有界序列{x(n)}的集合.这个空间用l^{infty} 来表示，它的范数是
 
-||x||_{infty} = sup_{n \leq 1} |x(n)|, x \in l^{infty}
+||x||_{infty} = sup_{n \geq 1} |x(n)|, x \in l^{infty}
